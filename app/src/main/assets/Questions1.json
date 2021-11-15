@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Poland?",
+      "answer1": "Warsaw",
+      "answer2": "Kraków",
+      "answer3": "Lublin",
+      "answer4": "Poznań",
+      "correct": "Warsaw"
+    },
+    {
+      "question": "What is Japanese sake made from?",
+      "answer1": "Almond's",
+      "answer2": "Potato's",
+      "answer3": "Rice",
+      "answer4": "Orange",
+      "correct": "Rice"
+    },
+    {
+      "question": "Europe is separated from Africa by which sea?",
+      "answer1": "Baltic Sea",
+      "answer2": "Mediterranean Sea",
+      "answer3": "Black Sea",
+      "answer4": "Red Sea",
+      "correct": "Mediterranean Sea"
+    },
+    {
+      "question": "Which of Shakespeare’s plays is the longest?",
+      "answer1": "Hamlet",
+      "answer2": "Romeo & Juliet",
+      "answer3": "The Storm",
+      "answer4": "King Lear",
+      "correct": "Hamlet"
+    },
+    {
+      "question": "Which country was the first to give women the right to vote, in 1893?",
+      "answer1": "USA",
+      "answer2": "Japan",
+      "answer3": "New Zealand",
+      "answer4": "Australia",
+      "correct": "New Zealand"
+    },
+    {
+      "question": "In Greek mythology, Perseus slays which monster with snakes for hair?",
+      "answer1": "Hydra",
+      "answer2": "Manticore",
+      "answer3": "Nemean Lion",
+      "answer4": "Gorgon",
+      "correct": "Gorgon"
+    },
+    {
+      "question": "Vanilla comes from what flowers?",
+      "answer1": "Jasmine",
+      "answer2": "Violet",
+      "answer3": "Orchid",
+      "answer4": "Sunflower",
+      "correct": "Orchid"
+    },
+    {
+      "question": "How many pounds are in a stone (small)?",
+      "answer1": "14",
+      "answer2": "15",
+      "answer3": "13",
+      "answer4": "10",
+      "correct": "14"
+    },
+    {
+      "question": "What colour is a giraffe's tongue?",
+      "answer1": "Red",
+      "answer2": "Green",
+      "answer3": "Orange",
+      "answer4": "Blue",
+      "correct": "Blue"
+    },
+    {
+      "question": "How many teeth does the average adult human have?",
+      "answer1": "31",
+      "answer2": "32",
+      "answer3": "30",
+      "answer4": "28",
+      "correct": "32"
+    },
+    {
+      "question": "How many sitting US presidents have been assassinated?",
+      "answer1": "4",
+      "answer2": "1",
+      "answer3": "5",
+      "answer4": "3",
+      "correct": "4"
+    },
+    {
+      "question": "What is the capital of Iceland?",
+      "answer1": "Akureyri",
+      "answer2": "Reykjavík",
+      "answer3": "Selfoss",
+      "answer4": "Vogar",
+      "correct": "Reykjavík"
+    },
+    {
+      "question": "What was the most downloaded app of 2020?",
+      "answer1": "TikTok",
+      "answer2": "Instagram",
+      "answer3": "Facebook",
+      "answer4": "Among Us",
+      "correct": "TikTok"
+    },
+    {
+      "question": "What is the Chinese New Year animal for 2021?",
+      "answer1": "Dog",
+      "answer2": "Dragon",
+      "answer3": "Ox",
+      "answer4": "Snake",
+      "correct": "Ox"
+    },
+    {
+      "question": "What's the best selling book of all time?",
+      "answer1": "Lord of The Rings",
+      "answer2": "Harry Potter",
+      "answer3": "100 ways to die",
+      "answer4": "The Bible",
+      "correct": "The Bible"
+    },
+    {
+      "question": "When did the Cold War end?",
+      "answer1": "1989",
+      "answer2": "1990",
+      "answer3": "1995",
+      "answer4": "1985",
+      "correct": "1989"
+    },
+    {
+      "question": "What is the name of the highest mountain in Africa?",
+      "answer1": "Mount Everest",
+      "answer2": "Mount Kilimanjaro",
+      "answer3": "Mount Dragonpeak",
+      "answer4": "Mount Zimba",
+      "correct": "Mount Kilimanjaro"
+    },
+    {
+      "question": "What is considered a poisonous flower?",
+      "answer1": "Belladona",
+      "answer2": "Orchid",
+      "answer3": "Rose",
+      "answer4": "Lily",
+      "correct": "Belladona"
+    },
+    {
+      "question": "Where did the quote: 'You Shall Not Pass!' came from?",
+      "answer1": "Game of Thrones",
+      "answer2": "Lord of The Rings",
+      "answer3": "Harry Potter",
+      "answer4": "Vikings",
+      "correct": "Lord of The Rings"
+    },
+    {
+      "question": "What is the capital of Israel?",
+      "answer1": "Jerusalem",
+      "answer2": "Haifa",
+      "answer3": "Tel Aviv",
+      "answer4": "Be'er Sheva",
+      "correct": "Jerusalem"
+    },
+    {
+      "question": "Which animal is related to the canine family?",
+      "answer1": "Panther",
+      "answer2": "Moose",
+      "answer3": "Dog",
+      "answer4": "Lion",
+      "correct": "Dog"
+    }
+  ]
+}
